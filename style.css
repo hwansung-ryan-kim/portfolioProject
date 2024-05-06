@@ -1,3 +1,18 @@
 h1 {
     background-color: antiquewhite;
 }
+
+#footer {
+    color: blueviolet;
+}
+
+#projects {
+    font-weight: bold;;
+}
+
+* { 
+    font-family: "Noto Sans KR", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
